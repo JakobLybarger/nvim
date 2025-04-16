@@ -86,8 +86,6 @@ require('lazy').setup({
   require 'custom.plugins.lazydev',
   require 'custom.plugins.comments',
   require 'custom.plugins.gitsigns',
-  require 'custom.plugins.modal',
-  require 'custom.plugins.counter',
 }, {
   ui = {
     -- If you are using a Nerd Font: set icons to an empty table which will use the
